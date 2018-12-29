@@ -5,7 +5,7 @@ The benchmarks provides
 > (1) pages  
 > (2) answers  
 > (3) content-extractors   
-> (4) and performances
+> (4) performances
 
 ## Pages
 + List the pages that be used for the experiments that the benchmark is currently preserving.
