@@ -30,3 +30,5 @@ For more details, see [`evaluation/`](evaluation).
 
 ## Visulaization Page
 <img src='./screenshots/screenshot1.jpg'>
+<br>
+<img src='./screenshots/screenshot2.jpg'>
