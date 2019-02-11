@@ -29,4 +29,4 @@ For more details, see [`benchmark/`](benchmark).
 For more details, see [`evaluation/`](evaluation).
 
 ## Visulaization Page
-<img src='./screenshots/screenshot1.JPG'>
+<img src='./screenshots/screenshot1.jpg'>
