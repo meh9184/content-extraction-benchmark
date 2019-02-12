@@ -29,11 +29,15 @@ For more details, see [`benchmark/`](benchmark).
 For more details, see [`evaluation/`](evaluation).
 
 ## Main Page
-<kbd width='80%'>
-  <img src='./screenshots/screenshot1.jpg'>
+<kbd>
+  <div width='80%'>
+    <img src='./screenshots/screenshot1.jpg'>
+  </div>
 </kbd>
 
 ## Performance Compare Page
-<kbd width='80%'>
-  <img src='./screenshots/screenshot2.jpg'>
+<kbd>
+  <div width='80%'>
+    <img src='./screenshots/screenshot2.jpg'>
+  </div>
 </kbd>
