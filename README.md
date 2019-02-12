@@ -28,8 +28,9 @@ For more details, see [`benchmark/`](benchmark).
 
 For more details, see [`evaluation/`](evaluation).
 
-<br>
 ## Main Page
 <img src='./screenshots/screenshot1.jpg'>
 <br>
+
+## Main Page
 <img src='./screenshots/screenshot2.jpg'>
