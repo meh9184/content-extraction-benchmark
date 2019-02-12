@@ -29,7 +29,7 @@ For more details, see [`benchmark/`](benchmark).
 For more details, see [`evaluation/`](evaluation).
 
 ## Main Page
-<img src='./screenshots/screenshot1.jpg'>
+<img src='./screenshots/screenshot1.jpg' border='1px'>
 
 ## Performance Compare Page
-<img src='./screenshots/screenshot2.jpg'>
+<img src='./screenshots/screenshot2.jpg' border='1px'>
