@@ -27,11 +27,9 @@ For more details, see [`benchmark/`](benchmark).
 + provides meaningful evaluation criteria in order to assess the semantic abilities of a tool on identifying (1) *DOM tree similarity*, (2) the *are intersection*, and (3) *word/tag token distance*.
 
 For more details, see [`evaluation/`](evaluation).
-<br><br>
 
 ## Main Page
 <img src='./screenshots/screenshot1.jpg'>
-<br>
 
 ## Performance Compare Page
 <img src='./screenshots/screenshot2.jpg'>
