@@ -28,7 +28,8 @@ For more details, see [`benchmark/`](benchmark).
 
 For more details, see [`evaluation/`](evaluation).
 
-## Visulaization Page
+<br>
+## Main Page
 <img src='./screenshots/screenshot1.jpg'>
 <br>
 <img src='./screenshots/screenshot2.jpg'>
