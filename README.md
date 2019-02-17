@@ -37,7 +37,7 @@ For more details, see [`evaluation/`](evaluation).
   </div>
 </kbd>
 
-<br><br>
+<br>
 
 + Performance Compare Page
 <kbd>
