@@ -28,14 +28,16 @@ For more details, see [`benchmark/`](benchmark).
 
 For more details, see [`evaluation/`](evaluation).
 
-## Main Page
+## Visualization
+
+### Main Page
 <kbd>
   <div width='80%'>
     <img src='./screenshots/screenshot1.jpg'>
   </div>
 </kbd>
 
-## Performance Compare Page
+### Performance Compare Page
 <kbd>
   <div width='80%'>
     <img src='./screenshots/screenshot2.jpg'>
