@@ -36,8 +36,7 @@ For more details, see [`evaluation/`](evaluation).
     <img src='./screenshots/screenshot1.jpg'>
   </div>
 </kbd>
-
-<br>
+<br><br>
 
 + Performance Compare Page
 <kbd>
