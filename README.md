@@ -30,14 +30,14 @@ For more details, see [`evaluation/`](evaluation).
 
 ## Visualization
 
-### Main Page
++ Main Page
 <kbd>
   <div width='80%'>
     <img src='./screenshots/screenshot1.jpg'>
   </div>
 </kbd>
 
-### Performance Compare Page
++ Performance Compare Page
 <kbd>
   <div width='80%'>
     <img src='./screenshots/screenshot2.jpg'>
