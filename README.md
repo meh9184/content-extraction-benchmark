@@ -44,4 +44,3 @@ For more details, see [`evaluation/`](evaluation).
     <img src='./screenshots/screenshot2.jpg'>
   </div>
 </kbd>
-
