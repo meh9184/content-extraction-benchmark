@@ -1,7 +1,6 @@
 # A Benchmark & Evaluation for Content Extraction from Web Pages
 
-This project is about benchmarking and evaluating existing content extraction tools on their abilities to extract the contents from web pages.
-It provides 
+This project is about benchmarking and evaluating existing content extraction tools on their abilities to extract the contents from web pages. It provides 
 
 > (1) a benchmark generator   
 > (2) a benchmark  
