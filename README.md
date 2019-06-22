@@ -11,7 +11,7 @@ This project is about benchmarking and evaluating existing content extraction to
 > + Downlaod the pages in MHT format using [Page Downloader](benchmark-generator/PageDownloader)
 > + Construct answers using the [Answer Set Manager](benchmark-generator/PageDownloader)
 
-For more details and usage, see [`benchmark-generator/`](benchmark-generator).
+> For more details and usage, see [`benchmark-generator/`](benchmark-generator).
 
 ## The Benchmark
 + Consists of 500 pages randomly selected from [*www.alexa.com*](https://www.alexa.com/) and each answer generated using the benchmark generated above.
