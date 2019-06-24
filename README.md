@@ -2,9 +2,9 @@
 
 This project is about benchmarking and evaluating existing content extraction tools on their abilities to extract the contents from web pages. It provides:
 
-1. a benchmark generator   
-2. a benchmark  
-3. a evaluation with meaningful evaluation criteria  
+(1). a benchmark generator   
+(2). a benchmark  
+(3). a evaluation with meaningful evaluation criteria  
 
 ## The Benchmark Generator
 + Construct benchmark pages randomly generated from sites refered to [*www.alexa.com*](https://www.alexa.com/) using the [Random Page Selector](benchmark-generator/RandomPageSelector).
