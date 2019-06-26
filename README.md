@@ -7,7 +7,7 @@ This project is about benchmarking and evaluating existing content extraction to
 > (3) a evaluation with meaningful evaluation criteria  
 
 ## The Benchmark Generator
-+ Construct benchmark pages randomly generated from sites refered to [*www.alexa.com*](https://www.alexa.com/) using the [Random Page Selector](benchmark-generator/RandomPageSelector).
++ Construct benchmark pages randomly generated from sites refered to [*www.alexa.com*](https://www.alexa.com/) using the [Random Page Selector](benchmark-generator/RandomPageSelector)
 + Downlaod the pages in MHT format using [Page Downloader](benchmark-generator/PageDownloader)
 + Construct answers using the [Answer Set Manager](benchmark-generator/PageDownloader)
 
